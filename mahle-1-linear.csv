@@ -1,0 +1,931 @@
+"model 1317 E (3.9) engine Cummins Int. 4 ISBE year 2008 - 2010 air_filter_1 LX2533 air_filter_2 LXS296 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1517 E (3.9) engine Cummins Int. 4 ISBE year 2008 - 2010 air_filter_1 LX2533 air_filter_2 LXS296 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1717 E (3.9) engine Cummins Int. 4 ISBE year 2008 - 2010 air_filter_1 LX2533 air_filter_2 LXS296 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1722 E (5.9) engine Cummins Int. 6 ISBE year 2008 - 2010 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 2422 E (5.9) engine Cummins Int. 6 ISBE year 2008 - 2010 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 2428 E (5.9) engine Cummins Int. 6 ISBE year 2008 - 2010 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 2622 E (5.9) engine Cummins Int. 6 ISBE year 2001 - 2006 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model 2628 E (5.9) engine Cummins Int. 6 ISBE year 2001 - 2006 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+model 4432 E engine Cummins ISC 8.3L year 2002 - 2006 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC618 engine_filter_2 KC118
+"model 815 E (3.9) engine Cummins Int. 4 ISBE year 2008 - 2010 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC502 engine_filter_1 KC440
+KC647/1
+Plus engine_filter_2 KC607"
+"model Euro Cargo 120E15 engine Iveco 8060.25V 5.9L year 2001 - 1999 air_filter_1 LX227 air_filter_2 LXS42/1 oil_filter OC248 engine_filter_1 KC18
+KC186
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Euro Cargo 150E18 engine Iveco T. 8060 25V 5.9L year 2009 - 1991 air_filter_1 LX227 air_filter_2 LXS42/1 oil_filter OC248 engine_filter_1 KC18
+KC186
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Euro Cargo 160E21 engine Iveco T.C. 8060 45V 5.9L year 2001 - 1998 air_filter_1 LX227 air_filter_2 LXS42/1 oil_filter OC248 engine_filter_1 KC186
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Euro Cargo 160E21 engine Iveco T.C. 8060 45V 5.9L year 2006 - 2006 air_filter_1 LX1070 air_filter_2 LXS261 oil_filter OC248 engine_filter_1 KC186
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Euro Tech 450E37T engine Iveco 8210-42K year 1999 -  air_filter_1 LX273 air_filter_2 LXS44/1 oil_filter OC267 engine_filter_1 KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1214 C (4X2) engine OM 364LA - TURBOCOOLER year 1997 -  air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OX150D engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 1218 E - 12t Série engine OM 904LA year 2001 - 2001 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1418 L,K,LA,LAK engine OM 366 A/LA year 1996 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 1620 L, LK engine OM 366 LA year 1996 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC303 engine_filter_1 KC641/1
+Plus
+KC637/1
+Plus engine_filter_2 KC635"
+"model 1622 L engine OM 924 LA year 2001 - 2001 air_filter_1 LX1070 air_filter_2 LXS261 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1623 L engine OM 906 L/LA -Eletrônico year 2001 - 1998 air_filter_1 LX1070 air_filter_2 LXS261 oil_filter OX174D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 1718 K engine OM 366 A/LA year 1996 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 1718 M - 17t Série engine OM 904 LA Eletrônico year 2001 - 1998 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+model 1718M engine OM 904 LA - Eletrônico year 2001 -  air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D engine_filter_2 KC119
+"model 1720 K engine OM 366 LA year 1996 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 1721 S engine OM 366 A/LA year 1996 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 1723 engine OM 366 LA year 1996 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 1723L engine OM 906 L/LA - Eletrônico year 2001 - 1998 air_filter_1 LX1070 air_filter_2 LXS261 oil_filter OX174D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 2423 B/K engine OM 906 LA year 2001 - 2000 air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OX174D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 2638 LS/L Cabine Normal
+(bicudo) engine OM 457 LA year 1998 - 2001 air_filter_1 LX273 air_filter_2 LXS44/1 oil_filter OX69D engine_filter_1 KX80/1D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 712C L/EL engine OM 904 LA - Eletrônico year 1998 -  air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 715C Accelo - 7t Série engine OM 612LA Eletrônico year 2001 - 2002 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX179D engine_filter_1 KL100/2
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 715C Accelo - 7t Série engine OM 612LA Eletrônico year 2005 - 2007 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX179D engine_filter_1 KL100/2
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 9t - Série 912C engine OM 904LA year 2001 - 2000 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 9t - Série 914C engine OM 904LA Eletrônico year 2001 - 1998 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 9t Série - 915C Accelo engine OM 904LA Eletrônico year 2001 - 2002 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model 9t Série - 915C Accelo engine OM 904LA Eletrônico year 2005 - 2007 air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Axor 2035 S engine OM 457 353HP year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2036 engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2040 S engine OM 457 401HP year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2041 engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2044 S engine OM 457 428HP year 2001 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2536S engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2540 S (6X2) engine OM 457 401HP year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2541S engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2544 S (6X2) engine OM 457 428HP year 2001 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2544S engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2640 S (6X4) engine OM 457 401HP year 2001 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2641 engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2644 engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 2644 S (6X4) engine OM 457 428HP year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 3340 / 3340 S / 3340 K
+(6X4) engine OM 457 401HP year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 3341K/S engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 3344 / 3344 S / 3344 K
+(6X4) engine OM 457 428HP year 2001 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 3344K/S engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 4140 K 6X4) engine OM 457 401HP year 2001 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 4141K engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 4144 K 6X4) engine OM 457 428HP year 2001 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Axor 4144K engine OM457LA year 2001 - 2012 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OX348D engine_filter_1 KX80/1D
+KC653D
+KC653/1 engine_filter_2 KC608"
+"model Chassis OF1417 engine OM 904 LA - Eletrônico year 1998 -  air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Chassis OF1620 engine OM 366 year 2001 - 1996 air_filter_1 LX265 air_filter_2 LXS37/1 oil_filter OC303 engine_filter_1 KC641D
+Plus
+KC641/1
+Plus engine_filter_2 KC635"
+"model LO914 engine OM 904LA year 2001 - 1998 air_filter_1 LX335 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model LO915 engine OM904LA year 2004 -  air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OX161/D engine_filter_1 KX67/2D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model OH1418 engine OM366LA year 1998 -  air_filter_1 LX1070 air_filter_2 LXS261 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model OH1421 L - Série 14t engine OM 366LA year 2003 -  air_filter_1 LX271/2
+LX1070 air_filter_2 LXS43/1
+LXS261 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model OH1621 L/LE engine OM366LA year 2003 -  air_filter_1 LX271/2
+LX1070 air_filter_2 LXS43/1
+LXS261 oil_filter OC303 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model Onibus O400 RSD /RSE engine OM 457LA year 2001 - 1998 air_filter_1 LX273 air_filter_2 LXS44/1 oil_filter OX69D engine_filter_1 KX80/1D
+KC647D
+Plus
+KC647/1
+Plus engine_filter_2 KC607"
+"model Modelo MA 3025 H engine MWM 4.10 year 2004 -  air_filter_1 LX1093 air_filter_2 LXS263 oil_filter OC60 engine_filter_1 KX24
+KC648/1
+Plus engine_filter_2 KC636"
+"model 124 P/R/T engine DC14 year 2002 -  air_filter_1 LX1069
+LX712 air_filter_2 LXS262 oil_filter KC441 engine_filter_1 KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model 124 P/R/T engine DSC12 year 2003 - 1998 air_filter_1 LX1069
+LX712 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model 124 P/R/T engine DSC12-01,02,09 (360/400cv) year 2001 - 1998 air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model G 360 engine Motor DC13 114 Euro 5 year 2001 - 2012 air_filter_1 LX3534 air_filter_2 LXS372 oil_filter OX1168D engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model G 420 engine DC12-06 year 2011 - 2006 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model G 440 engine DT12-18 Euro 3 year 2011 - 2006 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KX182D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model G 470 engine DT12-06 year 2011 - 2006 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KX182D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model LK 141 engine DC12 year 2003 - 2005 air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model LS 110 engine DC12 year 2005 - 2005 air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model LS 76 engine DC12 year 2001 - 2005 air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 230 engine DC9-13 year 2011 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KX182D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 230 engine DC9-19 year 2001 - 2004 air_filter_1 LX3006 air_filter_2 LXS288 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 250 engine Motor DC09 109 Euro 5 year 2001 - 2012 air_filter_1 LX3534 air_filter_2 LXS372 oil_filter OX1168D engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 270 engine DC9-12 year 2011 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 270 engine DC9-20 year 2001 - 2004 air_filter_1 LX3006 air_filter_2 LXS288 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 310 engine DC9-11 year 2011 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 310 engine DC9-21 year 2001 - 2004 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 310 engine Motor DC09 110 Euro 5 year 2001 - 2012 air_filter_1 LX3534 air_filter_2 LXS372 oil_filter OX1168D engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 340 engine DC11-03 year 2001 - 2004 air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 340 engine DC11-08 year 2011 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 360 engine DC13 06 year 2004 - 2010 air_filter_1 LX3534 air_filter_2 LXS372 oil_filter OX1168D engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 420 engine DC12-01 year 2001 - 2004 air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 420 engine DC12-06 Euro 3 year 2011 - 2006 air_filter_1 LX1313/1 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P 94 engine DSC9 year 2001 - 1998 air_filter_1 LX1069
+LX712
+LX714 air_filter_2 LXS262
+LXS288 oil_filter OC403 engine_filter_1 KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model P, R, T 114 engine DSC11 year 1998 -  air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403
+OC18 engine_filter_1 KC94
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model R 380 engine DC11-04 year 2001 - 2005 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model R 380 engine DC12 year 2010 -  air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS313
+LXS262 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model R 420 engine DC12-06 year 2011 - 2006 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model R 440 engine DT12-18 year 2011 - 2006 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS313 oil_filter OC403 engine_filter_1 KX182D
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model R 480 engine DC16-02 year 2001 - 2005 air_filter_1 LX1313/1
+LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KX
+182/1D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model T 114 GA320/330/360 engine DSC12 11.7L 24V year 1998 -  air_filter_1 LX1069 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model T 124 GA / GB / LA engine DCS12 year 2001 - 1998 air_filter_1 LX1069
+LX712 air_filter_2 LXS262 oil_filter OC403 engine_filter_1 KC94
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model T114 GA engine DSC11 320cv e 360cv year 1998 - 2000 air_filter_1 LX1069
+LX712 air_filter_2 LXS262 oil_filter OC403
+OC18 engine_filter_1 KC94
+KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model F94 engine DSC9-11 / DSC9-01 / DCS9-03 year 2001 - 1998 air_filter_1 LX531 air_filter_2 LXS287 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K114 engine DSC11 / DSC12-01 / DSC12-02 /
+DC12-01 year 2001 - 1998 air_filter_1 LX531 air_filter_2 LXS287 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K114 engine DSC12-02 / DC12-05 year 2001 - 2003 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K124 engine DSC12-01 / DSC12-02 / DC12-02 year 2001 - 1998 air_filter_1 LX531 air_filter_2 LXS287 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K124 engine DSC12-05 / DC12-05 year 2001 - 2003 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K270 engine DC9-20 year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KX182/1
+D
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K340 engine DC11-03 year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K360 engine DSC12-02 year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K380 engine DC11-04 year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KC441
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K420 engine DSC12-01 year 2001 - 2005 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model K94 engine DSC9-15 year 2001 - 1998 air_filter_1 LX531 air_filter_2 LXS287 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model L94 engine DSC9-01 / DC9-02 year 2003 - 1997 air_filter_1 LX531 air_filter_2 LXS287 oil_filter OC403 engine_filter_1 KC94
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model 12180, 13180, 14180, 15180,
+17210 engine MWM 6.10TCA year 1997 - 1999 air_filter_1 LX972 air_filter_2 LXS226 oil_filter OC35 engine_filter_1 KC641D
+Plus
+KC641/1
+Plus engine_filter_2 KC635"
+"model 13150 engine MWM 4.10TCA year 2001 - 2000 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC60 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 13180 (E Worker) engine MWM 4.12 TCE year 2012 - 2003 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC60 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 13180, 24220, 24250, 26300,
+40300 engine Cummins 6CTAA year 2000 -  air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC304
+OC1176 engine_filter_1 KC107 engine_filter_2 KC113"
+"model 14170, 15170, 16170 engine Cummins 6BT 5.9 year 1992 -  air_filter_1 LX972 air_filter_2 LXS226 oil_filter OC320 engine_filter_1 KC107 engine_filter_2 KC113"
+"model 15180 EOD engine MWM 4.12 TCAE year 2011 - 2004 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 15180 EOD engine MWM 6.12 TCAE year 2004 - 2004 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 15180 (E Worker) engine MWM 4.12 TCE year 2005 - 2005 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC60 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 15190 EOD engine MWM 4.12 TCE Euro III year 2004 - 2004 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC60 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 17210 EOD (Ônibus) engine MWM 4.12TCAE year 2004 - 2004 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC60 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 17210 EOD (Ônibus) engine MWM 6.12TCAE year 2012 - 2005 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 17230 EOD (Ônibus) engine MWM 6.12TCE Euro III year 2004 - 2004 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 17240 OT (Onibus) engine MWM 6.10 TCA year 2003 - 2001 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC637/1
+Plus engine_filter_2 KC595"
+"model 17260 EOT engine MWM 6.10 TCAE year 2001 - 2004 air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 18310 Titan engine Cummins 6CTAA 8.3T year 2001 - 2000 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC24
+KC637/1
+Plus engine_filter_2 KC595"
+"model 18320 EOT (Ônibus) engine MWM 6.12 TCAE year 2004 - 2004 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 19320 E CONSTELLATION engine Cummins ISC320 year 2011 - 2005 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC618
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 19370 E / 31370 E Constallation engine MWM NGD 9.3 370 year 2007 - 2007 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 23210 engine MWM 6.10TCA year 2005 - 2002 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 24320 CONSTELLATION engine CUMMINS ISC year 2001 - 2009 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC618
+KC637/1
+Plus engine_filter_2 KC595"
+"model 25320 CONSTELLATION engine CUMMINS ISC year 2001 - 2008 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC618
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 26260 (E Worker) engine MWM 6.12 TCE year 2012 - 2005 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 26280 6X4 CONSTELLATION/
+WORKER engine MAN D08 year 2011 - 2011 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OX1024D engine_filter_1 KX435D
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 31260 (E Worker) engine MWM 6.12 TCE year 2012 - 2005 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OC35 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 31280 6X4 CONSTELLATION engine MAN D08 36 280 202 275 year 2011 - 2011 air_filter_1 LX1716 air_filter_2 LXS260 oil_filter OX1024D engine_filter_1 KX435D
+KC637/1
+Plus engine_filter_2 KC595"
+"model 31320E Constellation 6X4 engine Cummins ISC320 E year 2002 - 2007 air_filter_1 LX1056
+LX1056/1
+LX1716 air_filter_2 LXS260 oil_filter OC1176 engine_filter_1 KC618
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+model 35300 engine Cummins 6CTAA 8.3 year 1992 -  air_filter_1 LX971 air_filter_2 LXS227 oil_filter OC304 engine_filter_1 KC107 engine_filter_2 KC113
+"model 5140 engine MWM 4.08TCE year 2005 -  air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC404 engine_filter_1 KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 7110 engine MWM 4.10TCA year 2001 - 2002 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC60 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 8120 engine MWM 4.10TCA year 2001 - 2000 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC60 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 8150 engine MWM 4.10TCA year 2001 - 2000 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC60 engine_filter_1 KC641/1
+Plus engine_filter_2 KC635"
+"model 8150 EOD engine MWM 4.12 TCAE year 2004 - 2004 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC60 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model 9150 EOD engine MWM 4.12 TCAE year 2004 - 2004 air_filter_1 LX910 air_filter_2 LXS37/1 oil_filter OC60 engine_filter_1 KC492
+KC637D
+Plus
+KC637/1
+Plus engine_filter_2 KC595"
+"model TGX 28440, 29440, 33440 engine MAN D2676 LF28 year 2012 -  air_filter_1 LX3593 air_filter_2 LXS317 oil_filter OX1017D engine_filter_1 KX435D
+KC637/1
+Plus engine_filter_2 KC595"
+"model B10M 340 EDC engine Volvo DH10A340 year 2001 - 1998 air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B10M ECO Articulado Automático engine Volvo THD102KF year 2001 - 1997 air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B10M (4x2) - (6x2) engine Volvo THD101KC year 1987 -  air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B10M245EDC Urbano Manual / Bi
+-Articulado engine Volvo DH10A245 year 2001 - 1998 air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B10M285EDC / Articulado/ Bi-
+Articulado Automático engine Volvo DH10A285 year 2001 - 1998 air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B10M310 (6x2) - (4x2) engine Volvo THD 101KC year 1998 -  air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B10R engine Volvo THD100D / THD102KF year 2006 - 1978 air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B12 / B12B engine Volvo TD122FL year 1995 -  air_filter_1 LX1098
+LX1098/1 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model B12360 engine Volvo TD122FH year 1995 -  air_filter_1 LX1098
+LX1098/1 air_filter_2 LXS7233 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FH 12.340 engine D12C year 2001 - 2001 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FH 12.380 engine D12C year 2001 - 1998 air_filter_1 LX1587 air_filter_2 LXS324 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FH 12.400 engine D13A year 2011 - 2006 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FH 12.400 engine D13A year 2001 - 2010 air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FH 12.420 engine D12C year 2001 - 1998 air_filter_1 LX1587 air_filter_2 LXS324 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FH 12.440 engine D13A year 2011 - 2006 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FH 12.440 engine D13A year 2001 - 2010 air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FH 12.480 engine D13A year 2006 - 2012 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+"model FH 12.480 engine D13A year 2001 - 2010 air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251 engine_filter_2 KC597D"
+"model FH 12.520 engine D13A year 2011 - 2006 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FH 12.520 engine D13A year 2001 - 2010 air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FH 460 engine D13C year 2009 -  air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+"model FH 540 engine D13C year 2013 -  air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+"model FM 12.340 engine D12C year 2001 - 2000 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FM 12.380 engine D12C year 2001 - 2001 air_filter_1 LX1587 air_filter_2 LXS324 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FM 12.420 engine D12C year 2001 - 2000 air_filter_1 LX1587 air_filter_2 LXS324 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model FM370, FMX370 engine D11C year 2010 -  air_filter_1 LX1587 air_filter_2 LXS324 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+"model FM380, FMX380 engine D13C year 2013 -  air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC650D engine_filter_2 KC597D"
+"model FM420, FMX420 engine D13C year 2009 -  air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+"model FM460, FMX460 engine D13C year 2010 -  air_filter_1 LX3141 air_filter_2 LXS319 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+"model FM480, FMX480 engine D13A year 2006 -  air_filter_1 LX1587 air_filter_2 LXS324 oil_filter OC121/2
+OC282
+(By Pass) engine_filter_1 KC251
+KC300
+KC650D engine_filter_2 KC597D"
+model N10 H/XH/XHT engine TD101F/TD101G year 2001 - 1984 air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121 engine_filter_1 KC24 engine_filter_2 KX89/2D
+"model N10, N12 4X2 - 4X6 - Intercooler I
+- II engine T101F - G - TD 121F year 1980 -  air_filter_1 LX93 air_filter_2 LXS7233 oil_filter OC121 engine_filter_1 KC24 engine_filter_2 KX89/2D"
+"model NH 12.340 engine D12C year 1999 -  air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NH 12.340 / 360 / 380 engine EDC Gold 123/E/ES - Inj. Elet. year 1998 -  air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NH 12.380 engine D12C year 2001 - 1998 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NH 12.420 engine D12C year 2001 - 1998 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NH 12.460 engine D12C year 2007 - 1999 air_filter_1 LX1281 air_filter_2 LXS282 oil_filter OC121
+OC121/2
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NL 10.320 D10A/ 12.360
+TD123E / 12.140 TD123ES /
+NL320 D10A engine Todos EDC Gold year 1998 -  air_filter_1 LX1055
+LX1055/1 air_filter_2 LXS7231 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NL 10.340 engine TD102FS year 1990 -  air_filter_1 LX1055 air_filter_2 LXS7231 oil_filter OC121 engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NL 12.360 engine TD122F year 1993 -  air_filter_1 LX1055 air_filter_2 LXS7231 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model NL 12.360 engine TD123E year 1995 -  air_filter_1 LX1055 air_filter_2 LXS7231 oil_filter OC121
+OC282
+(By Pass) engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model VM 17210 engine MWM6A206 year 2001 - 2004 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC121 engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
+"model VM 23210 engine MWM6A206 year 2001 - 2004 air_filter_1 LX1313/1 air_filter_2 LXS312 oil_filter OC121 engine_filter_1 KC75
+KC648D
+Plus
+KC648/1
+Plus engine_filter_2 KC636"
