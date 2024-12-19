@@ -10,6 +10,8 @@ networks:
 x-n8n: &service-n8n
   image: n8nio/n8n:latest
   networks: ['demo']
+  extra_hosts:
+    - "host.docker.internal:172.17.0.1"
   environment:
     - DB_TYPE=postgresdb
     - DB_POSTGRESDB_HOST=postgres
@@ -27,6 +29,8 @@ x-ollama: &service-ollama
   container_name: ollama
   networks: ['demo']
   restart: unless-stopped
+  extra_hosts:
+    - "host.docker.internal:172.17.0.1"
   ports:
     - 11434:11434
   volumes:
@@ -41,17 +45,21 @@ x-init-ollama: &init-ollama
   entrypoint: /bin/sh
   command:
     - "-c"
-    - "sleep 3; OLLAMA_HOST=ollama:11434 ollama pull llama3.2"
+    - "sleep 3; OLLAMA_HOST=ollama:11434 ollama pull llama3.2; OLLAMA_HOST=ollama:11434 ollama pull nomic-embed-text"
 
 services:
   postgres:
     image: postgres:16-alpine
     networks: ['demo']
     restart: unless-stopped
+    ports:
+      - 5432:5432
     environment:
       - POSTGRES_USER
       - POSTGRES_PASSWORD
       - POSTGRES_DB
+    extra_hosts:
+      - "host.docker.internal:172.17.0.1"
     volumes:
       - postgres_storage:/var/lib/postgresql/data
     healthcheck:
@@ -92,6 +100,8 @@ services:
   qdrant:
     image: qdrant/qdrant
     container_name: qdrant
+    extra_hosts:
+      - "host.docker.internal:172.17.0.1"
     networks: ['demo']
     restart: unless-stopped
     ports:
@@ -125,3 +135,4 @@ services:
     <<: *init-ollama
     depends_on:
       - ollama-gpu
+
